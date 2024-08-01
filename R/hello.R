@@ -13,6 +13,6 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hello <- function() {
+hellos <- function() {
   print("Hello, Marcs! I'm Tyrone")
 }
